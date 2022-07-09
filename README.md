@@ -1,5 +1,4 @@
-<img src="images/GoldenApple.png" alt="Golden Apple" style="width: 25%;" />
-
+<img align="center" src="images/GoldenApple.png" alt="Golden Apple" style="width: 25%;" />
 <br>
 
 # <center style="margin-bottom: 10px;" >Golden Apple</center>
