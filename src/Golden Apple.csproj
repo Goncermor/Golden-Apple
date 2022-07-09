@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Golden_Apple</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>GoldenApple.ico</ApplicationIcon>
+    <Platforms>AnyCPU;x64</Platforms>
+    <Authors>Goncermor</Authors>
+    <Description>Golden Apple - Updates minecraft mods</Description>
+    <Copyright>Copyright 2022</Copyright>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="GoldenApple.ico" />
+  </ItemGroup>
+
+</Project>
