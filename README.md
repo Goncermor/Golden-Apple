@@ -1,4 +1,4 @@
-<img src="images/GoldenApple.png" alt="Golden Apple" style="text-align: center;" />
+<img src="images/GoldenApple.png" alt="Golden Apple" style="height: 20%;" />
 
 <br>
 
