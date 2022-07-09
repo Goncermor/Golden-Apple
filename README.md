@@ -4,7 +4,7 @@
 
 <br>
 
-# <center style="margin-bottom: 10px;" >Golden Apple</center>
+# <h1 align="center">Golden Apple</h1>
 
 
 Sync your mods with a minecraft server
