@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/GoldenApple.png" alt="Golden Apple" style="width: 25%;" />
-</p>
+<p align="center"><img src="images/GoldenApple.png" alt="Golden Apple" style="width: 25%;" /></p>
 <h1 align="center">Golden Apple</h1>
 
 
